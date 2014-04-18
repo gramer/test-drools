@@ -1,4 +1,4 @@
-package com.gramer.drools.sample;
+package com.gramer.drools.simple;
 
 public class Message {
 

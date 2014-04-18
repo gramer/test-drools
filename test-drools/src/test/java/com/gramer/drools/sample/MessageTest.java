@@ -19,6 +19,8 @@ import org.drools.io.ResourceFactory;
 import org.drools.rule.Package;
 import org.junit.Test;
 
+import com.gramer.drools.simple.Message;
+
 
 public class MessageTest {
 
