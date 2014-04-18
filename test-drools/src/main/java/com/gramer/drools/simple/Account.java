@@ -1,4 +1,4 @@
-package com.gramer.drools.sample;
+package com.gramer.drools.simple;
 
 import org.drools.KnowledgeBase;
 import org.drools.builder.KnowledgeBuilder;
