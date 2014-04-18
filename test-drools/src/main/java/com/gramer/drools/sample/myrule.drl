@@ -1,0 +1,7 @@
+import com.gramer.drools.sample.Account
+rule "accountBalanceAtLeast"
+  when
+  	$account : Account( balance < 100 )
+  then
+  	System.out.println("Warning! money running out!");
+end
